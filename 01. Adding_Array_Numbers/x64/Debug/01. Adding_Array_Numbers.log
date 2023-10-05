@@ -1,0 +1,3 @@
+﻿  01. Adding_Array_Numbers.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\VENUJAN\Desktop\UNIVERSITY\04. Programming\HckerRank Problems\01. Adding_Array_Numbers\x64\Debug\01. Adding_Array_Numbers.exe : fatal error LNK1120: 1 unresolved externals
